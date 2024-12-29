@@ -1,0 +1,16 @@
+{
+  "name": "XERP Token",
+  "symbol": "XERP",
+  "description": "The official token of the XERP ecosystem.",
+  "image": "https://github.com/szarvasnorbert007/XERP/blob/main/xerp.png",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "XERP Ecosystem"
+    },
+    {
+      "trait_type": "Token Type",
+      "value": "Utility"
+    }
+  ]
+}
