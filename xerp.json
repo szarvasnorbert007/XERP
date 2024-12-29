@@ -2,7 +2,7 @@
   "name": "XERP Token",
   "symbol": "XERP",
   "description": "The official token of the XERP ecosystem.",
-  "image": "https://github.com/szarvasnorbert007/XERP/blob/main/xerp.png",
+  "image": "https://raw.githubusercontent.com/szarvasnorbert007/XERP/main/xerp.png",
   "attributes": [
     {
       "trait_type": "Project",
